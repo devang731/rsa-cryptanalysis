@@ -33,7 +33,8 @@ vulnerabilities in real deployed cryptographic systems.
 - Prime factorisation and its computational limits
 
 ## Status
-Project begins [PUT TODAY'S DATE]. All progress committed daily.
+Project begins May/21/2026. All progress committed daily.
 
 ## Contact
-[your email]
+EMAIL: devangsharma7772@gmail.com
+INSTAGRAM: @sharma___devang
